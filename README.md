@@ -83,4 +83,7 @@
 #
 
 # congratulations :) , it's finish , dont forget to give me star anf follow me :)) . 
+
+<iframe src="https://discord.com/widget?id=862358064681320469&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## see you soon , goodbye.
