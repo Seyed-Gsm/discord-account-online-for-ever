@@ -17,5 +17,5 @@ async def on_ready():
   
 
 keep_alive()
-TOKEN = os.environ.get("DISCORD_BOT_SECRET")
+TOKEN = os.environ.get("TOKEN")
 client.run(TOKEN , bot=False)
