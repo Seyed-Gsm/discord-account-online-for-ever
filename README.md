@@ -37,5 +37,24 @@
 
 ![replit](https://cdn.discordapp.com/attachments/958732975879630909/969221058429345822/2022-04-28_17_26_57-Home_-_Replit.png)
 
+* ### Note : if replit ask you to select language and run command :
+  * #### enter this informations
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969222819500134460/2022-04-28_17_34_45-README.md_-_discord-account-online-for-ever-1_-_Replit.png)
 
+## You should be here and see this scene : 
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969223555445301319/2022-04-28_17_37_38-main.py_-_discord-account-online-for-ever_-_Replit.png)
+
+* ### click on secrets and write this and put your token into value : 
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969225780762673182/2022-04-28_17_46_31-main.py_-_discord-account-online-for-ever_-_Replit.png)
+
+* ### now we run the code and click on the run button : 
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969224246322679818/2022-04-28_17_40_26-main.py_-_discord-account-online-for-ever_-_Replit.png)
+
+* ### then you should see this scene and 
+  * after that copy that link : 
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969227865805705246/2022-04-28_17_52_45-main.py_-_discord_stream-4_-_Replit.png)
 
