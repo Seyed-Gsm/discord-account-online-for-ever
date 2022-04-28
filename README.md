@@ -80,11 +80,11 @@
 
 ![replit](https://cdn.discordapp.com/attachments/958732975879630909/969234797660602418/2022-04-28_18_22_19-Dashboard___UptimeRobot.png)
 
-#
 
-# congratulations :) , it's finish , dont forget to give me star anf follow me :)) . 
 
-# for more informations , join my discord server : 
+## congratulations :) , it's finish , don't forget to give me star and follow me :)) . 
+
+## for more informations , join my discord server : 
 ![Golombe](https://discordapp.com/api/guilds/862358064681320469/widget.png?style=banner4)
 
 
