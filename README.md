@@ -84,6 +84,8 @@
 
 # congratulations :) , it's finish , dont forget to give me star anf follow me :)) . 
 
-<iframe src="https://discord.com/widget?id=862358064681320469&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+# for more informations , join my discord server : 
+![Golombe](https://discordapp.com/api/guilds/862358064681320469/widget.png?style=banner4)
+
 
 ## see you soon , goodbye.
