@@ -58,3 +58,18 @@
 
 ![replit](https://cdn.discordapp.com/attachments/958732975879630909/969227865805705246/2022-04-28_17_52_45-main.py_-_discord_stream-4_-_Replit.png)
 
+## Take some rest and go to [uptimerobot](https://uptimerobot.com) and login :
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969231723202236426/2022-04-28_18_10_01-UptimeRobot__Free_Website_Monitoring_Service.png)
+
+
+* #### if you have not account click on **register** for free in home page : 
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969233338202198066/2022-04-28_18_11_11-UptimeRobot__Free_Website_Monitoring_Service.png)
+
+
+* ### click on add new monitor :
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969233495270498344/2022-04-28_18_13_50-Dashboard___UptimeRobot.png)
+
+
