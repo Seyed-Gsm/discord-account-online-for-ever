@@ -72,4 +72,15 @@
 
 ![replit](https://cdn.discordapp.com/attachments/958732975879630909/969233495270498344/2022-04-28_18_13_50-Dashboard___UptimeRobot.png)
 
+* ### set monitor type to **HTTP(S)** and other setting like me : 
 
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969234499915374673/2022-04-28_18_19_50-Dashboard___UptimeRobot.png)
+
+* ### and just wait and refresh page to see this : 
+
+![replit](https://cdn.discordapp.com/attachments/958732975879630909/969234797660602418/2022-04-28_18_22_19-Dashboard___UptimeRobot.png)
+
+#
+
+# congratulations :) , it's finish , dont forget to give me star anf follow me :)) . 
+## see you soon , goodbye.
