@@ -1,5 +1,5 @@
 # discord-account-online-for-ever
-## discord account online for ever and 24/7 mode with **[replit](replit.com)** . 
+## discord account online for ever and 24/7 mode with **[replit](https://replit.com)** . 
 
 
 ### Why should we update our account to 24/7 mode ? :
