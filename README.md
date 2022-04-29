@@ -49,7 +49,7 @@
 
 ![replit](https://cdn.discordapp.com/attachments/958732975879630909/969225780762673182/2022-04-28_17_46_31-main.py_-_discord-account-online-for-ever_-_Replit.png)
 
-* ### now we run the code and click on the run button : 
+* ### now we can touch run button : 
 
 ![replit](https://cdn.discordapp.com/attachments/958732975879630909/969224246322679818/2022-04-28_17_40_26-main.py_-_discord-account-online-for-ever_-_Replit.png)
 
